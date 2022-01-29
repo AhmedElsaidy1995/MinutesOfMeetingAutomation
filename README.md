@@ -1,6 +1,6 @@
 # MinutesOfMeetingAutomation
 Automating Minutes Of Meeting Using NLP Technologies
-## Technolog
+## Technology
 AMI Meeting Corpus => https://groups.inf.ed.ac.uk/ami/corpus/
 
 Google Speech Recognition
